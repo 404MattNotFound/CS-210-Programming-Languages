@@ -1,4 +1,4 @@
-# Grocery Tracker Design Documentation
+# Grocery Tracker Program
 
 ## Purpose
 The purpose of the program is to simulate a shopping cart system that users can interact with. The user is able to:
